@@ -1,11 +1,11 @@
 
 {
-"pub_date": "2019-10-31T10:02:06Z",
-"name": "0.1.8",
+"pub_date": "2019-11-06T11:50:33Z",
+"name": "0.1.9",
 "notes": "TODO",
-"url": "https://github.com/glasses3-controller-releases/releases/download/v0.1.8/glasses3-controller-0.1.8-win32-x64.zip",
-"version": "0.1.8",
-"url_exe": "https://github.com/glasses3-controller-releases/releases/download/v0.1.8/glasses3-controller-0.1.8-win32-x64.exe",
-"url_nupkg": "https://github.com/glasses3-controller-releases/releases/download/v0.1.8/glasses3-controller-0.1.8-win32-x64.nupkg",
+"url": "https://github.com/glasses3-controller-releases/releases/download/v0.1.9/glasses3-controller-0.1.9-win32-x64.zip",
+"version": "0.1.9",
+"url_exe": "https://github.com/glasses3-controller-releases/releases/download/v0.1.9/glasses3-controller-0.1.9-win32-x64.exe",
+"url_nupkg": "https://github.com/glasses3-controller-releases/releases/download/v0.1.9/glasses3-controller-0.1.9-win32-x64.nupkg",
 "_": ""
 }
