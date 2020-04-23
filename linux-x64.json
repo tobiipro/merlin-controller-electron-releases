@@ -1,10 +1,10 @@
 
 {
-"pub_date": "2020-04-08T15:24:16Z",
-"name": "0.3.1",
+"pub_date": "2020-04-23T17:52:31Z",
+"name": "0.4.0",
 "notes": "TODO",
-"url": "https://github.com/glasses3-controller-releases/releases/download/v0.3.1/glasses3-controller-0.3.1-linux-x64.deb",
-"version": "0.3.1",
-"url_deb": "https://github.com/glasses3-controller-releases/releases/download/v0.3.1/glasses3-controller-0.3.1-linux-x64.deb",
+"url": "https://github.com/merlin-controller-electron-releases/releases/download/v0.4.0/glasses-3-0.4.0-linux-x64.deb",
+"version": "0.4.0",
+"url_deb": "https://github.com/merlin-controller-electron-releases/releases/download/v0.4.0/glasses-3-0.4.0-linux-x64.deb",
 "_": ""
 }
