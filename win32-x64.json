@@ -1,11 +1,11 @@
 
 {
-"pub_date": "2021-10-26T08:08:59Z",
-"name": "1.9.1",
+"pub_date": "2021-11-01T13:12:00Z",
+"name": "1.9.2",
 "notes": "TODO",
-"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.1",
-"version": "1.9.1",
-"url_exe": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.1/glasses_3-1.9.1-win32-x64.exe",
-"url_nupkg": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.1/glasses_3-1.9.1-win32-x64-full.nupkg",
+"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.2",
+"version": "1.9.2",
+"url_exe": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.2/glasses_3-1.9.2-win32-x64.exe",
+"url_nupkg": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.9.2/glasses_3-1.9.2-win32-x64-full.nupkg",
 "_": ""
 }
