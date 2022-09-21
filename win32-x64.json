@@ -1,11 +1,11 @@
 
 {
-"pub_date": "2022-09-19T11:26:25Z",
-"name": "1.15.6",
+"pub_date": "2022-09-21T12:40:17Z",
+"name": "1.14.11",
 "notes": "TODO",
-"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.15.6",
-"version": "1.15.6",
-"url_exe": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.15.6/glasses_3-1.15.6-win32-x64.exe",
-"url_nupkg": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.15.6/glasses_3-1.15.6-win32-x64-full.nupkg",
+"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.14.11",
+"version": "1.14.11",
+"url_exe": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.14.11/glasses_3-1.14.11-win32-x64.exe",
+"url_nupkg": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.14.11/glasses_3-1.14.11-win32-x64-full.nupkg",
 "_": ""
 }
