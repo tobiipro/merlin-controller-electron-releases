@@ -1,10 +1,10 @@
 
 {
-"pub_date": "2022-12-12T12:20:15Z",
-"name": "1.16.2",
+"pub_date": "2023-01-09T12:48:46Z",
+"name": "1.16.3",
 "notes": "TODO",
-"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.16.2/glasses_3-1.16.2-linux-x64.deb",
-"version": "1.16.2",
-"url_deb": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.16.2/glasses_3-1.16.2-linux-x64.deb",
+"url": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.16.3/glasses_3-1.16.3-linux-x64.deb",
+"version": "1.16.3",
+"url_deb": "https://github.com/tobiipro/merlin-controller-electron-releases/releases/download/v1.16.3/glasses_3-1.16.3-linux-x64.deb",
 "_": ""
 }
